@@ -2,9 +2,6 @@ import org.apache.commons.math3.stat.descriptive.DescriptiveStatistics;
 
 import java.util.Random;
 
-/**
- * @author <a href="mailto:cmoon@expedia.com">cmoon</a>
- */
 public class P2Main {
 
     private static final int SAMPLE_SIZE = 1000000;

@@ -1,6 +1,3 @@
-/**
- * @author <a href="mailto:cmoon@expedia.com">cmoon</a>
- */
 public class P2Engine {
 
     private double[] q;
